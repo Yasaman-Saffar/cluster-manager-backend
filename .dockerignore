@@ -1,0 +1,7 @@
+__pycache__/
+/backups/
+*.pyc
+db.sqlite3
+.env
+.git
+.gitignore
